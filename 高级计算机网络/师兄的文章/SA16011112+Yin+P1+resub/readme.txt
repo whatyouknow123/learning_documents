@@ -1,0 +1,2 @@
+SourceCode里first是Pattern1的源码，second是Pattern2的源码
+tracefile是两次运行的结果，从文件的名字可以分别是哪个Pattern和从哪个节点到哪个节点

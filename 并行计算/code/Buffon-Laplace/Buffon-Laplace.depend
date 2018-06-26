@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1524923365 source:f:\研究生文档\研一课程\并行计算\code\buffon-laplace\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+

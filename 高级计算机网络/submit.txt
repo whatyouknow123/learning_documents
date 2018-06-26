@@ -1,0 +1,57 @@
+Submission guidline
+
+###########################################################
+
+Submit to FTP 
+
+Server IP: 222.195.68.57
+
+Account: network
+
+Password: 123456
+
+Note:
+
+1. Can only be accessed within the campus network.
+
+2. You can't upload to replace the your previous submission, also you can't perform delete and download operations.
+
+3. In case of any problem (e.g., submit a wrong file, server failure), please email the tutor using your USTC mail address.
+
+4. If you need to replace your previous submission, you can rename your project like name+resub.zip and upload the new one.
+
+5. You can use FileZilla as your ftp tool.
+
+########################################################### 
+
+
+###########################################################
+
+Project 1 
+
+1. Submit a zip file, name your submission as "StudentID+LastName+P1.zip" (e.g., SA17011900+Wang+P1.zip).
+
+2. Include source code, trace files, report, and a readme file in your submission. 
+
+
+###########################################################
+
+Project 2
+
+1. Submit a zip file, name your submission as "StudentID+LastName+P2.zip" (e.g., SA17011900+Wang+P2.zip).
+
+2. Include source code, report, and a readme file in your submission.
+
+########################################################### 
+  
+
+
+###########################################################
+
+Project 3
+
+1. Submit a zip file, name your submission as "StudentID+LastName+P3.zip" (e.g., SA17011900+Wang+P3.zip).
+
+2. Include source code, report, and a readme file in your submission.
+
+########################################################### 

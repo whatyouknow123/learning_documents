@@ -1,0 +1,315 @@
+QueenNum	Time	stepVegas
+   12		0ms	   0
+
+   12		0ms	   1
+
+   12		0ms	   2
+
+   12		0ms	   3
+
+   12		0ms	   4
+
+   12		0ms	   5
+
+   12		0ms	   6
+
+   12		0ms	   7
+
+   12		0ms	   8
+
+   12		0ms	   9
+
+   12		0ms	   10
+
+   12		0ms	   11
+
+   12		0ms	   12
+
+QueenNum	Time	stepVegas
+   13		0ms	   0
+
+   13		0ms	   1
+
+   13		0ms	   2
+
+   13		0ms	   3
+
+   13		0ms	   4
+
+   13		0ms	   5
+
+   13		0ms	   6
+
+   13		0ms	   7
+
+   13		0ms	   8
+
+   13		0ms	   9
+
+   13		0ms	   10
+
+   13		0ms	   11
+
+   13		0ms	   12
+
+   13		0ms	   13
+
+QueenNum	Time	stepVegas
+   14		0ms	   0
+
+   14		0ms	   1
+
+   14		0ms	   2
+
+   14		0ms	   3
+
+   14		0ms	   4
+
+   14		0ms	   5
+
+   14		0ms	   6
+
+   14		0ms	   7
+
+   14		0ms	   8
+
+   14		0ms	   9
+
+   14		0ms	   10
+
+   14		0ms	   11
+
+   14		0ms	   12
+
+   14		0ms	   13
+
+   14		0ms	   14
+
+QueenNum	Time	stepVegas
+   15		0ms	   0
+
+   15		0ms	   1
+
+   15		0ms	   2
+
+   15		0ms	   3
+
+   15		0ms	   4
+
+   15		0ms	   5
+
+   15		0ms	   6
+
+   15		0ms	   7
+
+   15		0ms	   8
+
+   15		0ms	   9
+
+   15		0ms	   10
+
+   15		0ms	   11
+
+   15		0ms	   12
+
+   15		0ms	   13
+
+   15		0ms	   14
+
+   15		0ms	   15
+
+QueenNum	Time	stepVegas
+   16		5ms	   0
+
+   16		2ms	   1
+
+   16		1ms	   2
+
+   16		0ms	   3
+
+   16		0ms	   4
+
+   16		0ms	   5
+
+   16		0ms	   6
+
+   16		0ms	   7
+
+   16		0ms	   8
+
+   16		0ms	   9
+
+   16		0ms	   10
+
+   16		0ms	   11
+
+   16		0ms	   12
+
+   16		0ms	   13
+
+   16		0ms	   14
+
+   16		0ms	   15
+
+   16		0ms	   16
+
+QueenNum	Time	stepVegas
+   17		3ms	   0
+
+   17		2ms	   1
+
+   17		1ms	   2
+
+   17		0ms	   3
+
+   17		0ms	   4
+
+   17		0ms	   5
+
+   17		0ms	   6
+
+   17		0ms	   7
+
+   17		0ms	   8
+
+   17		0ms	   9
+
+   17		0ms	   10
+
+   17		0ms	   11
+
+   17		0ms	   12
+
+   17		0ms	   13
+
+   17		0ms	   14
+
+   17		0ms	   15
+
+   17		0ms	   16
+
+   17		0ms	   17
+
+QueenNum	Time	stepVegas
+   18		23ms	   0
+
+   18		7ms	   1
+
+   18		4ms	   2
+
+   18		1ms	   3
+
+   18		0ms	   4
+
+   18		0ms	   5
+
+   18		0ms	   6
+
+   18		0ms	   7
+
+   18		0ms	   8
+
+   18		0ms	   9
+
+   18		0ms	   10
+
+   18		0ms	   11
+
+   18		0ms	   12
+
+   18		0ms	   13
+
+   18		0ms	   14
+
+   18		0ms	   15
+
+   18		0ms	   16
+
+   18		0ms	   17
+
+   18		0ms	   18
+
+QueenNum	Time	stepVegas
+   19		2ms	   0
+
+   19		5ms	   1
+
+   19		3ms	   2
+
+   19		2ms	   3
+
+   19		1ms	   4
+
+   19		1ms	   5
+
+   19		0ms	   6
+
+   19		0ms	   7
+
+   19		0ms	   8
+
+   19		0ms	   9
+
+   19		0ms	   10
+
+   19		0ms	   11
+
+   19		0ms	   12
+
+   19		0ms	   13
+
+   19		0ms	   14
+
+   19		0ms	   15
+
+   19		0ms	   16
+
+   19		0ms	   17
+
+   19		0ms	   18
+
+   19		0ms	   19
+
+QueenNum	Time	stepVegas
+   20		137ms	   0
+
+   20		56ms	   1
+
+   20		23ms	   2
+
+   20		5ms	   3
+
+   20		3ms	   4
+
+   20		1ms	   5
+
+   20		1ms	   6
+
+   20		0ms	   7
+
+   20		0ms	   8
+
+   20		0ms	   9
+
+   20		0ms	   10
+
+   20		0ms	   11
+
+   20		0ms	   12
+
+   20		0ms	   13
+
+   20		0ms	   14
+
+   20		0ms	   15
+
+   20		0ms	   16
+
+   20		0ms	   17
+
+   20		0ms	   18
+
+   20		0ms	   19
+
+   20		0ms	   20
+
